@@ -20,6 +20,6 @@ Minseok Seo, Jaemin Lee, Jongchan Park, and Dong-Geol
                             /val
         
     Sequential-Feature-Filtering-Classifier/
-        main.py
+        (main.py)
 
 ```
