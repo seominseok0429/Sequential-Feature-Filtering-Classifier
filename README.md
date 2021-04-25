@@ -51,5 +51,5 @@ python main.py --ffc
 ### test
 
 ```
-python main.py --ffc --path ./ffc.pth
+python main.py --ffc --r
 ```
