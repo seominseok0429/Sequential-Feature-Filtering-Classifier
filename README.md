@@ -36,7 +36,7 @@ In this study, we propose Sequential Feature Filtering Classifier (FFC), a simpl
 | METHOD | DATASET | AUC | 
 |:--------:|:--------:|:--------:|
 | ResNet-50 | ImageNet-1K | 75.80 |
-| [ResNet-50+FFC](https://github.com/seominseok0429/Sequential-Feature-Filtering-Classifier/edit/main/README.md) | ImageNet-1K | 77.01 |
+| [ResNet-50+FFC](https://github.com/seominseok0429/Sequential-Feature-Filtering-Classifier/edit/main/README.md) | ImageNet-1K | 76.97 |
 
 ## train-test script
 
