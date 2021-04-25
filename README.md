@@ -38,7 +38,7 @@ Note that our top performance was **76.97** as a result of multiple runs, but th
 | METHOD | DATASET | AUC | 
 |:--------:|:--------:|:--------:|
 | ResNet-50 | ImageNet-1K | 75.80 |
-| [ResNet-50+FFC](https://github.com/seominseok0429/Sequential-Feature-Filtering-Classifier/edit/main/README.md) | ImageNet-1K | 76.97 |
+| ResNet-50+FFC | ImageNet-1K | **76.97** |
 
 ## train-test script
 
