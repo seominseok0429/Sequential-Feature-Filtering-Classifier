@@ -33,6 +33,8 @@ In this study, we propose Sequential Feature Filtering Classifier (FFC), a simpl
 
 ## Models
 
+Note that our top performance was **76.97** as a result of multiple runs, but the average of the results of multiple runs was **76.84** on the paper.
+
 | METHOD | DATASET | AUC | 
 |:--------:|:--------:|:--------:|
 | ResNet-50 | ImageNet-1K | 75.80 |
