@@ -1,7 +1,7 @@
-# Sequential Feature Filtering Classifier
+# Sequential Feature Filtering Classifier (IEEE Access)
 
 
-Minseok Seo, Jaemin Lee, Jongchan Park, and Dong-Geol
+Minseok Seo, Jaemin Lee, Jongchan Park, Daehan Kim and Dong-Geol
 
 <img width="1376" alt="Screen Shot 2021-04-22 at 8 59 05 PM" src="https://user-images.githubusercontent.com/33244972/115710771-ac47fa00-a3ad-11eb-8c3f-ed4dd5c9ed84.png">
 
